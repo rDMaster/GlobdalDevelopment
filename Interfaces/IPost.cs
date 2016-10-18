@@ -11,7 +11,7 @@ namespace GlobalDevelopment.Interfaces
         string postMessage { get; set; }
         string ImageSrc { get; set; }
         string PostUrl { get; set; }
-        string CreatedDate { get; set; }
+        DateTime CreatedDate { get; set; }
         string OwnerName { get; set; }
     }
 }
