@@ -23,3 +23,7 @@ Microsoft Sql Server Api:
 
 
 If you want the Visual Studio Solution please email me at harrystewart1997@outlook.com
+
+This is both peices of an old version of the project and the new updated parts of the project. I'm currently rewriting the code to a
+a much cleaner and better usage model. Also introducting more functionality and better performance, so this will be updated often in
+the future.
