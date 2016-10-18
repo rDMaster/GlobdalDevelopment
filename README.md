@@ -20,3 +20,6 @@ Microsoft Sql Server Api:
   real time chats, real-time notification and it uses a packaging system which only receive and send packages installed in the system. I'm
   currently working on a security and encryption system which will be added on a later date. It can also send and recieve files, which can
   be restricted by the size specified by the developer on installation.
+
+
+If you want the Visual Studio Solution please email me at harrystewart1997@outlook.com
